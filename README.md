@@ -88,8 +88,7 @@ There are two ways to install the mod :
  ## Releases
  | Among Us Version | Mod Version     |                                                       All-in-one pack                                                       |                                                   DLL file                                                    |
  |------------------|-----------------|:---------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|
-  | v2025.10.14     | Ver. 1.2.2      |   **[Download](https://github.com/superidol1890/BetterPolusReloaded/releases/download/v2.0.0/BetterPolus-v2.0.0.zip)**      |       **[Download]
-  (https://github.com/superidol1890/BetterPolusReloaded/releases/download/v2.0.0/BetterPolus.dll)**        |
+ | v2025.10.24      | Ver. 2.0.0      |   **[Download](https://github.com/superidol1890/BetterPolusReloaded/releases/download/v2.0.0/BetterPolus-2.0.0.zip)**    |       **[Download](https://github.com/superidol1890/BetterPolusReloaded/releases/download/v2.0.0/BetterPolus.dll)**        |
  | v2023.10.24+     | Ver. 1.2.2      |   **[Download](https://github.com/Brybry16/BetterPolus/releases/download/v1.2.2/BetterPolus_All-in-one-Pack-1.2.2.zip)**    |       **[Download](https://github.com/Brybry16/BetterPolus/releases/download/v1.2.2/BetterPolus.dll)**        |
  | v2023.7.12+      | Ver. 1.2.1      |   **[Download](https://github.com/Brybry16/BetterPolus/releases/download/v1.2.1/BetterPolus_All-in-one-Pack-1.2.1.zip)**    |       **[Download](https://github.com/Brybry16/BetterPolus/releases/download/v1.2.1/BetterPolus.dll)**        |
  | v2023.6.13+      | Ver. 1.2.0be670 | **[Download](https://github.com/Brybry16/BetterPolus/releases/download/v1.2.0/BetterPolus_All-in-one-Pack-1.2.0be670.zip)** |       **[Download](https://github.com/Brybry16/BetterPolus/releases/download/v1.2.0/BetterPolus.dll)**        |
@@ -98,8 +97,8 @@ There are two ways to install the mod :
  | v2021.6.30       | Ver. 1.1.3      |   **[Download](https://github.com/Brybry16/BetterPolus/releases/download/v1.1.3/BetterPolus_All-in-one-Pack-1.1.3.zip)**    |    **[Download](https://github.com/Brybry16/BetterPolus/releases/download/v1.1.3/BetterPolus-1.1.3.dll)**     |
  | v2021.3.31.3     | Ver. 1.1.2      |   **[Download](https://github.com/Brybry16/BetterPolus/releases/download/v1.1.2/BetterPolus_All-in-one-Pack-1.1.2.zip)**    | **[Download](https://github.com/Brybry16/BetterPolus/releases/download/v1.1.2/BetterPolus-2021.3.31.3s.dll)** |
  | v2021.3.5s       | Ver. 1.1.1      |   **[Download](https://github.com/Brybry16/BetterPolus/releases/download/v1.1.1/BetterPolus_All-in-one-Pack-1.1.1.zip)**    |  **[Download](https://github.com/Brybry16/BetterPolus/releases/download/v1.1.1/BetterPolus-2021.3.5s.dll)**   |
- | v2020.12.9s      | Ver. 1.1        |     **[Download](https://github.com/Brybry16/BetterPolus/releases/download/v1.1/BetterPolus_All-in-one-Pack-1.1.zip)**      |   **[Download](https://github.com/Brybry16/BetterPolus/releases/download/v1.1/BetterPolus-2020.12.9s.dll)**   |
- | v2020.12.9s      | Ver. 1.0        |      **[Download](https://github.com/Brybry16/BetterPolus/releases/download/v1.0.0/BetterPolus_All-in-one-Pack.zip)**       |  **[Download](https://github.com/Brybry16/BetterPolus/releases/download/v1.0.0/BetterPolus-2020.12.9s.dll)**  |
+ | v2020.12.9s      | Ver. 1.1        |    **[Download](https://github.com/Brybry16/BetterPolus/releases/download/v1.1/BetterPolus_All-in-one-Pack-1.1.zip)**      |   **[Download](https://github.com/Brybry16/BetterPolus/releases/download/v1.1/BetterPolus-2020.12.9s.dll)**   |
+ | v2020.12.9s      | Ver. 1.0        |    **[Download](https://github.com/Brybry16/BetterPolus/releases/download/v1.0.0/BetterPolus_All-in-one-Pack.zip)**       |  **[Download](https://github.com/Brybry16/BetterPolus/releases/download/v1.0.0/BetterPolus-2020.12.9s.dll)**  |
  
  ### Changelog
  <details>
