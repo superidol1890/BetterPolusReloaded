@@ -64,7 +64,7 @@ An Among Us mod that tweaks Polus, allowing a more balanced experience.
 ## Technology
 The game is patched at runtime via **[BepInEx Bleeding Edge](https://github.com/BepInEx/BepInEx)** and no game file is actually altered.
 
-For the moment, this mod supports **Among Us v2023.10.24**.
+For the moment, this mod supports **Among Us v2025.10.14**.
 
 ## Installation
 For a better experience, every player in your lobby should download BetterPolus. You *can* play with people that don't have the mod installed but keep in mind that they won't see the same things as you (for example Vitals location).
@@ -88,6 +88,8 @@ There are two ways to install the mod :
  ## Releases
  | Among Us Version | Mod Version     |                                                       All-in-one pack                                                       |                                                   DLL file                                                    |
  |------------------|-----------------|:---------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|
+  | v2025.10.14     | Ver. 1.2.2      |   **[Download](https://github.com/superidol1890/BetterPolusReloaded/releases/download/v2.0.0/BetterPolus-v2.0.0.zip)**      |       **[Download]
+  (https://github.com/superidol1890/BetterPolusReloaded/releases/download/v2.0.0/BetterPolus.dll)**        |
  | v2023.10.24+     | Ver. 1.2.2      |   **[Download](https://github.com/Brybry16/BetterPolus/releases/download/v1.2.2/BetterPolus_All-in-one-Pack-1.2.2.zip)**    |       **[Download](https://github.com/Brybry16/BetterPolus/releases/download/v1.2.2/BetterPolus.dll)**        |
  | v2023.7.12+      | Ver. 1.2.1      |   **[Download](https://github.com/Brybry16/BetterPolus/releases/download/v1.2.1/BetterPolus_All-in-one-Pack-1.2.1.zip)**    |       **[Download](https://github.com/Brybry16/BetterPolus/releases/download/v1.2.1/BetterPolus.dll)**        |
  | v2023.6.13+      | Ver. 1.2.0be670 | **[Download](https://github.com/Brybry16/BetterPolus/releases/download/v1.2.0/BetterPolus_All-in-one-Pack-1.2.0be670.zip)** |       **[Download](https://github.com/Brybry16/BetterPolus/releases/download/v1.2.0/BetterPolus.dll)**        |
@@ -100,6 +102,12 @@ There are two ways to install the mod :
  | v2020.12.9s      | Ver. 1.0        |      **[Download](https://github.com/Brybry16/BetterPolus/releases/download/v1.0.0/BetterPolus_All-in-one-Pack.zip)**       |  **[Download](https://github.com/Brybry16/BetterPolus/releases/download/v1.0.0/BetterPolus-2020.12.9s.dll)**  |
  
  ### Changelog
+ <details>
+  <summary>Version 2.0.0</summary>
+  <ul>
+     <li>Added compatibility with Among Us v2025.10.14</li>
+  </ul>
+  </details>
 <details>
   <summary>Version 1.2.2</summary>
   <ul>
@@ -200,11 +208,6 @@ Of course!
 **Do I risk anything if I play on official Servers?**<br>
 There is currently no permaban system for the game so it's safe to play on official servers. However, I still recommend you to host your own custom server to be safe. For more information, you can check this repository :
 - **[Impostor/Impostor](https://github.com/Impostor/Impostor):** A custom server that allows you to create your own plugins.
-
-**Can you use BetterPolus with Woodi's Sheriff Mod?**<br>
-As of version 1.1.4, you you can use Woodi's Sheriff Mod!<br>
-~~Reactor doesn't support Woodi's Sheriff Mod. **However**, you can use [**Reactor-Sheriff**](https://github.com/Brybry16/Reactor-Sheriff) which is an adapted version of Woodi's Sheriff Mod that can run with and BetterPolus.~~
-
 **How can I get started at Among Us Modding?**<br>
 Try to look how other plugins/mods are developed. It's really helpful to have a base to start with! Otherwise, you can try to use Reactor if you want. Look at the **[Reactor documentation](https://docs.reactor.gg/)** to get started, and join **[Reactor's Discord](https://discord.gg/Zcmsb9UGuq)** to get more help from the community.
 
