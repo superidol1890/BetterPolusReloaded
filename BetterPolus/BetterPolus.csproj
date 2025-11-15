@@ -1,10 +1,10 @@
 <Project Sdk="Microsoft.NET.Sdk">
     <PropertyGroup>
         <TargetFramework>net6.0</TargetFramework>
-        <Version>2.0.0</Version>
+        <Version>2.0.1</Version>
 
         <Description>Better Polus Reloaded</Description>
-        <Authors>Brybry and Super Idol</Authors>
+        <Authors>Brybry, Super Idol, Pichade</Authors>
         <LangVersion>latest</LangVersion>
         <PlatformTarget>x86</PlatformTarget>
     </PropertyGroup>

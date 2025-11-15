@@ -26,6 +26,7 @@ public static class ShipStatusPatches
     public static bool IsVentsFetched;
 
     // Tasks Tweak
+    public static Console KeysConsole;
     public static Console WifiConsole;
     public static Console NavConsole;
 
@@ -147,6 +148,12 @@ public static class ShipStatusPatches
                 .Find(console => console.name == "panel_wifi");
         }
 
+        if (KeysConsole == null)
+        {
+            KeysConsole = Object.FindObjectsOfType<Console>().ToList()
+                .Find(console => console.name == "panel_keys");
+        }
+
         if (NavConsole == null)
         {
             NavConsole = Object.FindObjectsOfType<Console>().ToList()
@@ -220,7 +227,8 @@ public static class ShipStatusPatches
         if (WifiConsole.transform.position != WifiNewPos)
         {
             Transform wifiTransform = WifiConsole.transform;
-            wifiTransform.parent = DropShip.transform;
+            Transform keysTransform = KeysConsole.transform;
+            wifiTransform.parent = keysTransform.parent;
             wifiTransform.position = WifiNewPos;
         }
 
