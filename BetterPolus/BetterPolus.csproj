@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
     <PropertyGroup>
         <TargetFramework>net6.0</TargetFramework>
-        <Version>2.0.1</Version>
+        <Version>2.1.0</Version>
 
         <Description>Better Polus Reloaded</Description>
         <Authors>Brybry, Super Idol, Pichade</Authors>
@@ -10,7 +10,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <PackageReference Include="AmongUs.GameLibs.Steam" Version="2025.10.14" />
+        <PackageReference Include="AmongUs.GameLibs.Steam" Version="2025.11.18" />
         <PackageReference Include="BepInEx.Unity.IL2CPP" Version="6.0.0-be.672" />
         <PackageReference Include="BepInEx.IL2CPP.MSBuild" Version="2.1.0-rc.1">
           <PrivateAssets>all</PrivateAssets>
