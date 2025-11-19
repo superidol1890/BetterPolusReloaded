@@ -64,7 +64,7 @@ An Among Us mod that tweaks Polus, allowing a more balanced experience.
 ## Technology
 The game is patched at runtime via **[BepInEx Bleeding Edge](https://github.com/BepInEx/BepInEx)** and no game file is actually altered.
 
-For the moment, this mod supports **Among Us v2025.10.14**.
+For the moment, this mod supports **Among Us v2025.11.18**.
 
 ## Installation
 For a better experience, every player in your lobby should download BetterPolus. You *can* play with people that don't have the mod installed but keep in mind that they won't see the same things as you (for example Vitals location).
@@ -88,6 +88,7 @@ There are two ways to install the mod :
  ## Releases
  | Among Us Version | Mod Version     |                                                       All-in-one pack                                                       |                                                   DLL file                                                    |
  |------------------|-----------------|:---------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|
+   | v2025.10.14      | Ver. 2.0.2      |   **[Download](https://github.com/superidol1890/BetterPolusReloaded/releases/download/v2.0.2/BetterPolus-v2.0.2.zip)**    |       **[Download](https://github.com/superidol1890/BetterPolusReloaded/releases/download/v2.0.2/BetterPolus.dll)**        |
   | v2025.10.14      | Ver. 2.0.1      |   **[Download](https://github.com/superidol1890/BetterPolusReloaded/releases/download/v2.0.1/BetterPolus-v2.0.1.zip)**    |       **[Download](https://github.com/superidol1890/BetterPolusReloaded/releases/download/v2.0.1/BetterPolus.dll)**        |
  | v2025.10.14      | Ver. 2.0.0      |   **[Download](https://github.com/superidol1890/BetterPolusReloaded/releases/download/v2.0.0/BetterPolus-v2.0.0.zip)**    |       **[Download](https://github.com/superidol1890/BetterPolusReloaded/releases/download/v2.0.0/BetterPolus.dll)**        |
  | v2023.10.24+     | Ver. 1.2.2      |   **[Download](https://github.com/Brybry16/BetterPolus/releases/download/v1.2.2/BetterPolus_All-in-one-Pack-1.2.2.zip)**    |       **[Download](https://github.com/Brybry16/BetterPolus/releases/download/v1.2.2/BetterPolus.dll)**        |
@@ -101,7 +102,13 @@ There are two ways to install the mod :
  | v2020.12.9s      | Ver. 1.1        |    **[Download](https://github.com/Brybry16/BetterPolus/releases/download/v1.1/BetterPolus_All-in-one-Pack-1.1.zip)**      |   **[Download](https://github.com/Brybry16/BetterPolus/releases/download/v1.1/BetterPolus-2020.12.9s.dll)**   |
  | v2020.12.9s      | Ver. 1.0        |    **[Download](https://github.com/Brybry16/BetterPolus/releases/download/v1.0.0/BetterPolus_All-in-one-Pack.zip)**       |  **[Download](https://github.com/Brybry16/BetterPolus/releases/download/v1.0.0/BetterPolus-2020.12.9s.dll)**  |
  
- ### Changelog
+ ### Changelog  <details>
+  <summary>Version 2.0.2</summary>
+  <ul>
+     <li>Added compatibility with Among Us v2025.11.18</li>
+    <li>Reboot task Dropship bug was appearing in v2025.11.18. However it has been fixed.</li>
+  </ul>
+  </details>
   <details>
   <summary>Version 2.0.1</summary>
   <ul>
