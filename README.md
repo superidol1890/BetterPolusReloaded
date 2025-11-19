@@ -102,7 +102,7 @@ There are two ways to install the mod :
  | v2020.12.9s      | Ver. 1.1        |    **[Download](https://github.com/Brybry16/BetterPolus/releases/download/v1.1/BetterPolus_All-in-one-Pack-1.1.zip)**      |   **[Download](https://github.com/Brybry16/BetterPolus/releases/download/v1.1/BetterPolus-2020.12.9s.dll)**   |
  | v2020.12.9s      | Ver. 1.0        |    **[Download](https://github.com/Brybry16/BetterPolus/releases/download/v1.0.0/BetterPolus_All-in-one-Pack.zip)**       |  **[Download](https://github.com/Brybry16/BetterPolus/releases/download/v1.0.0/BetterPolus-2020.12.9s.dll)**  |
  
- ### Changelog  <details>
+ ### Changelog
   <details>
   <summary>Version 2.0.2</summary>
   <ul>
