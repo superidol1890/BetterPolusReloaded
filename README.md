@@ -1,4 +1,4 @@
-**Note: Better Polus works with v2025.11.18(v17.1.0)**.
+# Note: Better Polus works with v2025.11.18(v17.1.0)
 
 # BetterPolus
 An Among Us mod that tweaks Polus, allowing a more balanced experience.
