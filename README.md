@@ -90,7 +90,8 @@ There are two ways to install the mod :
  ## Releases
  | Among Us Version | Mod Version     |                                                       All-in-one pack                                                       |                                                   DLL file                                                    |
  |------------------|-----------------|:---------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|
-   | v2025.11.19      | Ver. 2.0.2      |   **[Download](https://github.com/superidol1890/BetterPolusReloaded/releases/download/v2.0.2/BetterPolus-v2.0.2.zip)**    |       **[Download](https://github.com/superidol1890/BetterPolusReloaded/releases/download/v2.0.2/BetterPolus.dll)**        |
+    | v2025.11.18      | Ver. 2.1.0      |   **[Download](https://github.com/superidol1890/BetterPolusReloaded/releases/download/v2.1.0/BetterPolus-v2.1.0.zip)**    |       **[Download](https://github.com/superidol1890/BetterPolusReloaded/releases/download/v2.1.0/BetterPolus.dll)**        |
+   | v2025.11.18      | Ver. 2.0.2      |   **[Download](https://github.com/superidol1890/BetterPolusReloaded/releases/download/v2.0.2/BetterPolus-v2.0.2.zip)**    |       **[Download](https://github.com/superidol1890/BetterPolusReloaded/releases/download/v2.0.2/BetterPolus.dll)**        |
   | v2025.10.14      | Ver. 2.0.1      |   **[Download](https://github.com/superidol1890/BetterPolusReloaded/releases/download/v2.0.1/BetterPolus-v2.0.1.zip)**    |       **[Download](https://github.com/superidol1890/BetterPolusReloaded/releases/download/v2.0.1/BetterPolus.dll)**        |
  | v2025.10.14      | Ver. 2.0.0      |   **[Download](https://github.com/superidol1890/BetterPolusReloaded/releases/download/v2.0.0/BetterPolus-v2.0.0.zip)**    |       **[Download](https://github.com/superidol1890/BetterPolusReloaded/releases/download/v2.0.0/BetterPolus.dll)**        |
  | v2023.10.24+     | Ver. 1.2.2      |   **[Download](https://github.com/Brybry16/BetterPolus/releases/download/v1.2.2/BetterPolus_All-in-one-Pack-1.2.2.zip)**    |       **[Download](https://github.com/Brybry16/BetterPolus/releases/download/v1.2.2/BetterPolus.dll)**        |
@@ -105,6 +106,16 @@ There are two ways to install the mod :
  | v2020.12.9s      | Ver. 1.0        |    **[Download](https://github.com/Brybry16/BetterPolus/releases/download/v1.0.0/BetterPolus_All-in-one-Pack.zip)**       |  **[Download](https://github.com/Brybry16/BetterPolus/releases/download/v1.0.0/BetterPolus-2020.12.9s.dll)**  |
  
  ### Changelog
+   <details>
+  <summary>Version 2.1.0</summary>
+  <ul>
+    <li>Added compatibility with Among Us v2025.11.18</li>
+    <li>Fixed compilation errors and code issues</li>
+    <li>Fixed error in v2.0.2 where the text showed as "v1.2.2" instead of "v2.0.2". However now text shows "v2.1.0"</li>
+    <li>Many Bug fixes with map (such as a bug where the reboot task that was shifted to dropship disappeared)</li>
+    <li>Added custom vent system</li>
+   </ul>
+  </details>
   <details>
   <summary>Version 2.0.2</summary>
   <ul>
