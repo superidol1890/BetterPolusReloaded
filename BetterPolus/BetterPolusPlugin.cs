@@ -10,9 +10,9 @@ namespace BetterPolus;
 [BepInProcess("Among Us.exe")]
 public class BetterPolusPlugin : BasePlugin
 {
-    private const string Id = "ch.brybry.betterpolus";
+    private const string Id = "ch.SuperIdol.betterpolus";
     private const string Name = "BetterPolus Mod";
-    public const string Version = "1.2.3";
+    public const string Version = "2.1.0";
 
     private Harmony Harmony { get; } = new(Id);
     public static ManualLogSource Logger { get; private set; }
